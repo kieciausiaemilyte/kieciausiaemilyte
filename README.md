@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kieciausiaemilyte
 - 👀 Man labai patinka Lana Del Rey, ir Taylor Swift, ir mėlyna spalva, ir knygos
-- 🌱 Dabar mokausi kaip programuoti, nes women in stem 
-- 💞️ ieškau... nieko, aš viską turiu
+- 🌱 Dabar mokausi kaip programuoti, nes labai reikia
+- 💞️ ieškau... būdo kaip paleisti mano programą
 - 📫 How to reach me ... NEĮMANOMA
 
 <!---
